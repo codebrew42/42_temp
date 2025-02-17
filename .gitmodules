@@ -1,0 +1,12 @@
+[submodule "others_minishell/42NoGun_mini_with_docs"]
+	path = others_minishell/42NoGun_mini_with_docs
+	url = https://github.com/42NoGun/Minishell.git
+[submodule "others_minishell/madebypixel02_mini"]
+	path = others_minishell/madebypixel02_mini
+	url = https://gitlab.com/madebypixel02/minishell.git
+[submodule "others_minishell/sichoi42_mini"]
+	path = others_minishell/sichoi42_mini
+	url = https://github.com/sichoi42/minishell.git
+[submodule "others_minishell/TEAM-DaeGae_mini"]
+	path = others_minishell/TEAM-DaeGae_mini
+	url = https://github.com/TEAM-DaeGae/minishell.git
