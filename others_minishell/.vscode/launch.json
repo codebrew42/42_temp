@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/jieunpark/coding/42/42_temp/others_minishell/42NoGun_mini_with_docs/src/expansion",
+      "program": "/Users/jieunpark/coding/42/42_temp/others_minishell/42NoGun_mini_with_docs/src/expansion/build/Debug/outDebug"
+    }
+  ]
+}

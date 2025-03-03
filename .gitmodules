@@ -10,3 +10,6 @@
 [submodule "others_minishell/TEAM-DaeGae_mini"]
 	path = others_minishell/TEAM-DaeGae_mini
 	url = https://github.com/TEAM-DaeGae/minishell.git
+[submodule "LeaYeh_minishell"]
+	path = LeaYeh_minishell
+	url = https://github.com/codebrew42/LeaYeh_minishell.git
